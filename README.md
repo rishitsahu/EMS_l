@@ -71,11 +71,11 @@ When a user wants to checkout, application will have a button for getting the cu
  <img src="./Checkout.png"/>
 
 ## Sample Notifications
-<img src="./M1.png"/>
+<img src="./entry-management-main/M1.png"/>
 
-<img src="./M2.png"/>
+<img src="./entry-management-main/M2.png"/>
 
-<img src="./M3.jpg"/>
+<img src="./entry-management-main/M3.jpg"/>
 
 ## Author
 
