@@ -61,7 +61,7 @@ npm run start
 ## Approach
 Whenever a user checks in, he/she needs to fill a checkin form:
 
-<img src="./entry-management-main/UI.png"/>
+<img src="./entry-management-main/ui.png"/>
 
 
 After submitting the form, POST request to the route /checkin is sent with request-body as formData, the formData is then saved into a MongoDB Database along with the timestamp when the form is submitted which implies the checkin time for the visitor. While storing the data to MongoDB, the value of checkout field is NULL. Also, an email and a sms is also sent to the host containing the visitor's details. Twilio api and nodemailer are used for sending the sms and email notification respectively.
