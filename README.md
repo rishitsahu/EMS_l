@@ -6,7 +6,7 @@ software.
 ## Project Configuration
 ```
 1. Clone the repository:
-    git clone https://github.com/sudh1111/entry-management
+    git clone https://github.com/rishitsahu/entry-management
 
 2. Install the required modules
     npm install
